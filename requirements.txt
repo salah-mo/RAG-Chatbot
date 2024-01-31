@@ -1,0 +1,32 @@
+# Langchain is a Python library for language processing tasks.
+langchain==0.0.184
+
+# PyPDF2 is a Python library for PDF file manipulation.
+PyPDF2==3.0.1
+
+# Python-dotenv is a Python library for handling .env files.
+python-dotenv==1.0.0
+
+# Streamlit is a Python library for creating data apps.
+streamlit==1.18.1
+
+# OpenAI is a Python library for interacting with the OpenAI API.
+openai==0.27.6
+
+# Faiss-cpu is a Python library for efficient similarity search and clustering of dense vectors.
+faiss-cpu==1.7.4
+
+# Altair is a Python library for declarative statistical visualization.
+altair==4
+
+# Tiktoken is a Python library from OpenAI for counting tokens in a text string.
+tiktoken==0.4.0
+
+# Huggingface-hub is a Python library for downloading and publishing models and other large files.
+huggingface-hub==0.14.1
+
+# InstructorEmbedding is a Python library for embedding instructions.
+InstructorEmbedding==1.0.1
+
+# Sentence-transformers is a Python library for state-of-the-art sentence, text and image embeddings.
+sentence-transformers==2.2.2
